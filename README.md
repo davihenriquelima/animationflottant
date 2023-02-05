@@ -1,4 +1,4 @@
 # animationflottant
-Animação TV - By Davi Lima
+Animação Dell- By Davi Lima
 
 https://davihenriquelima.github.io/animationflottant/
